@@ -1,2 +1,4 @@
 rel_component
 data/
+project.lock
+training
