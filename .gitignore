@@ -2,3 +2,4 @@ rel_component
 data/
 project.lock
 training
+*/__pycache__/
